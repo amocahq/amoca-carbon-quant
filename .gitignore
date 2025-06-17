@@ -96,3 +96,4 @@ notification-admin-dashboard/
 google-services.json
 *firebase-adminsdk*.json
 credentials.json
+.env
